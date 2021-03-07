@@ -1,0 +1,8 @@
+# The-Spark-Foundation
+Data Science  &amp; Business Analytics Tasks
+
+Prediction using Unsupervised ML
+
+● From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
+● Use R or Python and perform this task
+● Dataset : https://bit.ly/3kXTdox
